@@ -2,9 +2,7 @@
 
 ## GitHub URL
 
-Replace this with your repository URL after pushing:
-
-`https://github.com/YOUR-USERNAME/os-process-monitor`
+`https://github.com/ade05881/os-process-monitor`
 
 ## Compilation and Running Instructions
 
